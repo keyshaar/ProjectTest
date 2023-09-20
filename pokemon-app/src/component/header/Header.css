@@ -1,0 +1,28 @@
+.logo {
+    width: 10rem;
+}
+
+.navbar{
+    background: #DB092B;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2 rem;
+}
+
+.navbar-container{
+    padding: 2rem;
+}
+
+.nav-links {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+  }
+
+  .nav-item {
+    display: flex;
+    align-items: center;
+    height: 1 rem;
+  }
