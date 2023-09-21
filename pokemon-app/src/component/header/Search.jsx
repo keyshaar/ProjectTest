@@ -74,6 +74,7 @@ const Search = () => {
                   : "search-icon"
               }
               icon={faSearch}
+              style={{ color: "white"}}
             />
           )}
         </div>
